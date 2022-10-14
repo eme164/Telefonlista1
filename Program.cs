@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Välkommen till frågesport. Nu ska vi testa ditt kunnande!");
         }
     }
 }
